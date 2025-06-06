@@ -28,22 +28,15 @@ The 360 camera can, in fact, be detected. In our paper, it was undetectable due 
 Our experiments were conducted using 2.4GHz WiFi. If using 5GHz WiFi, please adjust the relevant parameters accordingly—for example, change `'--bandwidth', '20'` to `'--bandwidth', '40'` in the location settings.
 
 ### Citation
+```
 @inproceedings{zhang2025camlopa,
-
 author={Zhang, Xiang and Zhang, Jie and Ma, Zehua and Huang, Jinyang and Li, Meng and Yan, Huan and Zhao, Peng and Zhang, Zijian and Liu, Bin and Guo, Qing and Zhang, Tianwei and Yu, NengHai },
-
 booktitle = { 2025 IEEE Symposium on Security and Privacy (SP) },
-
 title = {CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis },
-
 year = {2025},
-
 volume = {},
-
 ISSN = {2375-1207},
-
 pages = {3653-3671},
-
 address = {Los Alamitos, CA, USA},
-
 month =May}
+```
