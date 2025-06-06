@@ -1,5 +1,6 @@
 # Implementation of CamLoPA
 **We have released the next-generation version of this work, which eliminates the need for parameter assumptions in the current localization model and addresses its sensitivity to irregular user movement and varying speeds. Refer to:https://github.com/CamLoPA/DiffLoc**
+
   **CamLoPA** is a framework for detecting and locating hidden wireless cameras, designed using a Raspberry Pi 4B and based on the analysis of wireless signal propagation paths. This repository contains the implementation code and steps for CamLoPA. Before proceeding, please ensure you have completed the following tasks:
 
 - Install the nexmon-csi tool on your Raspberry Pi 4B. 
